@@ -1,4 +1,4 @@
-# Delloite Technutsav
+# Deloitte Technoutsav
 This repository contains all datasets and python notebooks and related project files that we have accumulated for the Delloite Technutsav round 2.2
 
 # Project Topic
